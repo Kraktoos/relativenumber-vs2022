@@ -1,6 +1,6 @@
 Relative Number for Visual Studio 2022
-Click  [here](https://github.com/brianschmitt/relativenumber) for the original
 ==============
+Click  [here](https://github.com/brianschmitt/relativenumber) for the original repo
 
 Adds VIM's ['Relative number'](http://vim.wikia.com/wiki/Display_line_numbers#Relative_line_numbers) to Visual Studio for use with VSVim.
 
