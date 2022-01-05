@@ -1,4 +1,4 @@
-Relative Number
+Relative Number Visual Studio 2022
 ==============
 
 Adds VIM's ['Relative number'](http://vim.wikia.com/wiki/Display_line_numbers#Relative_line_numbers) to Visual Studio for use with VSVim.
@@ -16,7 +16,7 @@ Installation
 ------------
 
 * Download source, build, and run .vsix
-* Or available on [Visual Studio Gallery](http://visualstudiogallery.msdn.microsoft.com/19c65cc7-58fb-429b-b7c2-1892f77f890c)
+* Or download .vsix from [this](https://www.mediafire.com/file/uj79l807wqj9de8/RelativeNumber.vsix/file) link
 
 
 Usage
