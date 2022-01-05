@@ -16,7 +16,7 @@ Installation
 ------------
 
 * Download source, build, and run .vsix
-* Or download .vsix from [this](https://www.mediafire.com/file/uj79l807wqj9de8/RelativeNumber.vsix/file) link
+* Or download and run .vsix from [this](https://www.mediafire.com/file/uj79l807wqj9de8/RelativeNumber.vsix/file) link
 
 
 Usage
